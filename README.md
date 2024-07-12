@@ -35,6 +35,7 @@ Enjoy!
 ## How fast?
 Laragon starts instantly. You can set Laragon autorun when Windows starts. When running, Laragon uses just a little amount of your RAM.
 Here is the GUI of Laragon:
+
 ![0_1513173700919_01-dashboard.png](https://i.imgur.com/f8rBqSU.png) 
 
 ## How easy?
