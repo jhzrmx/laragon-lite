@@ -2,7 +2,7 @@
 
 ## What is Laragon?
 
-Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
+Laragon is a portable, isolated, fast & powerful universal web development environment. It is fast, lightweight, easy-to-use and easy-to-extend.
 
 Laragon is great for building and managing modern web applications. It is focused on performance  - designed around stability, simplicity, flexibility and freedom.
 
@@ -14,8 +14,6 @@ Enjoy!
 
 ## Features
 
-- **Pretty URLs**
-  Use `app.test` instead of `localhost/app`.
 - **Portable**
   You can move Laragon folder around (to another disks, to another laptops, sync to Cloud,...) without any worries. 
 - **Isolated**
@@ -40,6 +38,5 @@ Here is the GUI of Laragon:
 ![0_1513173700919_01-dashboard.png](https://i.imgur.com/f8rBqSU.png) 
 
 ## How easy?
-- Laragon is very easy to install & upgrade. Just download the latest version and click `Next, Next, Next...`
 - Laragon is very easy to use. Most of the time it will work out-of-the-box without the need to touch any configuration files.
 - Laragon is very easy to extend. You can add other services to your current stack by just extracting them to `Laragon's bin` folder.
